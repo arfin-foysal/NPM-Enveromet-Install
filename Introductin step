@@ -1,0 +1,10 @@
+1nd.......src folder open then creat  folder (Scss) then creat (style.scss)
+
+2rd........ projcet folder right click to gitbas open then open to vs code (code .)
+
+3st....... go to pakege.json
+chenge file name and discription
+
+4th.....gid bash command to (npm install)
+
+5th ......gid bash command to(npm start)
